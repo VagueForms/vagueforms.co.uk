@@ -2,9 +2,9 @@ url: https://vagueforms.co.uk
 baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Vague Forms
+email: contact@vagueforms.co.uk
+description: "Vague Forms is a video game development company."
 
 
 # Team names, titles and social links
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: TEST NAME 2
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: TEST NAME 3
   pic: 3
   position: Lead Developer
   social:
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line:
 
 # Build settings
 markdown: kramdown
